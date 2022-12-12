@@ -1,0 +1,215 @@
+.logo {
+  height:50px;
+  width:100px;
+}
+.container{
+  display:flex;
+  height:69px;
+  width:1160px;
+  position:fixed;
+  margin-left:0px;
+  z-index:1;
+  border-bottom:1px solid seashell;
+}
+
+* {
+  /*border: 1px solid red;*/
+  background-color: black;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+.missiion {
+  color:seashell;
+  margin-left:auto;
+  margin-right:10px;
+}
+
+.featured{
+  margin-right:10px;
+}
+
+.backgroundImage{
+  
+  min-height:700px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(50, 28, 222);
+  background-image: url("../images/img-mission-background.jpg");
+  background-position:center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  flex-direction: column;
+}
+
+h2.mission{
+  display:flex;
+  margin-top:0px;
+  margin-bottom: 0px;
+  align-items: center;
+  justify-content: center;
+  width:1200px;
+  padding:10px;
+  border:0px
+}
+h4.handpicked{
+  display:flex;
+  width:1200px;
+  margin-bottom:0px;
+  margin-top:0px;
+  margin-left: 0px;
+  margin-right:0px;
+  align-items: center;
+  justify-content: center;
+  padding:10px;
+  border:0px;
+}
+
+.container6{
+  min-height:500px;
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(50, 28, 222);
+  background-image: url("../images/img-locations-background.jpg");
+  background-position:center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  flex-direction: row;
+  
+}
+.downtown{
+  position:relative;
+  margin-left:0px;
+  margin-bottom:50px;
+  height:300px;
+  width:300px;
+  line-height: 2.5em;
+  text-align:center;
+  
+  
+}
+.bayside{
+  position:relative;
+  margin-left:0px;
+  margin-bottom:50px;
+  height:300px;
+  width:300px;
+  line-height: 2.5em;
+  text-align:center;
+}
+.oakdale{
+  position:relative;
+  margin-left:0px;
+  margin-bottom:50px;
+  height:300px;
+  width:300px;
+  line-height: 2.5em;
+  text-align:center;
+}
+
+h3.locat{
+  position:absolute;
+  display:flex;
+  margin-top:0px;
+  margin-bottom: 400px;
+  align-items: center;
+  justify-content: center;
+  width:120px;
+  padding:0px;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+h2{
+  margin-top:50px;
+  margin-bottom:10px;
+  padding:0;
+  text-align:center;
+}
+h3{
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:0;
+  text-align:center;
+}
+
+.container2{
+  display:flex;
+  width:1000px;
+  
+}
+
+.container4{
+  display:flex;
+}
+
+.container5{
+  display:flex;
+  margin-bottom:50px;
+}
+
+.myrtle{
+  height:200px;
+  width:300px;
+  margin-left:200px;
+}
+.bedford {
+  height:200px;
+  width:300px;
+  margin-left:50px;
+}
+
+.container3{
+  display:flex;
+  
+}
+
+h3.falll{
+  margin-left:100px;
+}
+h3.rumm{
+  margin-left:120px;
+}
+
+h3.fall{
+  margin-left:280px;
+}
+
+h3.rum{
+  margin-left:150px;
+
+}
+
+h3.seasonal{
+  margin-left:130px;
+}
+.spiced{
+  height:200px;
+  width:300px;
+  }
+  
+  .berry{
+    height:200px;
+  width:300px;
+    }
+  
+  .doughnut{
+    height:200px;
+    width:300px;
+  }
+
+  h2.TTC{
+
+    margin-top:15px;
+  }
+  h5.contact{
+  text-align: center;
+  }
+  h5.phone{
+    text-align:center;
+    margin-top:0px;
+  }
